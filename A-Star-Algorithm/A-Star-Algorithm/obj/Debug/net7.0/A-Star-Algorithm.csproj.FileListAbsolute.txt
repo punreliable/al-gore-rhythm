@@ -1,0 +1,15 @@
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/bin/Debug/net7.0/A-Star-Algorithm
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/bin/Debug/net7.0/A-Star-Algorithm.deps.json
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/bin/Debug/net7.0/A-Star-Algorithm.runtimeconfig.json
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/bin/Debug/net7.0/A-Star-Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/bin/Debug/net7.0/A-Star-Algorithm.pdb
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.csproj.AssemblyReference.cache
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.AssemblyInfoInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.AssemblyInfo.cs
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.csproj.CoreCompileInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/refint/A-Star-Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.pdb
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/A-Star-Algorithm.genruntimeconfig.cache
+/Users/BSmith9/Sites/al-gore-rhythms/A-Star-Algorithm/A-Star-Algorithm/obj/Debug/net7.0/ref/A-Star-Algorithm.dll
