@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-Asterisk", "A-Asterisk\A-Asterisk.csproj", "{59E2ECE9-ABCF-4683-B484-DA4E4CC6418B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E2ECE9-ABCF-4683-B484-DA4E4CC6418B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E2ECE9-ABCF-4683-B484-DA4E4CC6418B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E2ECE9-ABCF-4683-B484-DA4E4CC6418B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E2ECE9-ABCF-4683-B484-DA4E4CC6418B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

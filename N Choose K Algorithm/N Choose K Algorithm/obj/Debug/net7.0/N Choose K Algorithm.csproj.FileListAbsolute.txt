@@ -1,0 +1,15 @@
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/bin/Debug/net7.0/N Choose K Algorithm
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/bin/Debug/net7.0/N Choose K Algorithm.deps.json
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/bin/Debug/net7.0/N Choose K Algorithm.runtimeconfig.json
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/bin/Debug/net7.0/N Choose K Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/bin/Debug/net7.0/N Choose K Algorithm.pdb
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.csproj.AssemblyReference.cache
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.AssemblyInfoInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.AssemblyInfo.cs
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.csproj.CoreCompileInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/refint/N Choose K Algorithm.dll
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.pdb
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/N Choose K Algorithm.genruntimeconfig.cache
+/Users/BSmith9/Sites/al-gore-rhythms/N Choose K Algorithm/N Choose K Algorithm/obj/Debug/net7.0/ref/N Choose K Algorithm.dll
