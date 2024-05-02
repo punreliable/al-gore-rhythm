@@ -1,0 +1,5 @@
+/Users/BSmith9/Sites/al-gore-rhythms/Floyd Warshall Algorithm/Floyd Warshall Algorithm/obj/Debug/net7.0/Floyd Warshall Algorithm.csproj.AssemblyReference.cache
+/Users/BSmith9/Sites/al-gore-rhythms/Floyd Warshall Algorithm/Floyd Warshall Algorithm/obj/Debug/net7.0/Floyd Warshall Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BSmith9/Sites/al-gore-rhythms/Floyd Warshall Algorithm/Floyd Warshall Algorithm/obj/Debug/net7.0/Floyd Warshall Algorithm.AssemblyInfoInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/Floyd Warshall Algorithm/Floyd Warshall Algorithm/obj/Debug/net7.0/Floyd Warshall Algorithm.AssemblyInfo.cs
+/Users/BSmith9/Sites/al-gore-rhythms/Floyd Warshall Algorithm/Floyd Warshall Algorithm/obj/Debug/net7.0/Floyd Warshall Algorithm.csproj.CoreCompileInputs.cache
