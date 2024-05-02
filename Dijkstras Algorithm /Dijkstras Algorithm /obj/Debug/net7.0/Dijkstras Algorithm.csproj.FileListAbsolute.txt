@@ -1,0 +1,5 @@
+/Users/BSmith9/Sites/al-gore-rhythms/Dijkstras Algorithm /Dijkstras Algorithm /obj/Debug/net7.0/Dijkstras Algorithm.csproj.AssemblyReference.cache
+/Users/BSmith9/Sites/al-gore-rhythms/Dijkstras Algorithm /Dijkstras Algorithm /obj/Debug/net7.0/Dijkstras Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BSmith9/Sites/al-gore-rhythms/Dijkstras Algorithm /Dijkstras Algorithm /obj/Debug/net7.0/Dijkstras Algorithm.AssemblyInfoInputs.cache
+/Users/BSmith9/Sites/al-gore-rhythms/Dijkstras Algorithm /Dijkstras Algorithm /obj/Debug/net7.0/Dijkstras Algorithm.AssemblyInfo.cs
+/Users/BSmith9/Sites/al-gore-rhythms/Dijkstras Algorithm /Dijkstras Algorithm /obj/Debug/net7.0/Dijkstras Algorithm.csproj.CoreCompileInputs.cache
